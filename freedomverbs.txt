@@ -16,4 +16,6 @@ lead
 memorialize
 overwhelm
 preserve
-
+capitalize
+spend
+buy
