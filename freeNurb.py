@@ -9,6 +9,7 @@ Freedom Nurbler
 import nltk
 import random
 
+# Next goal, use something like: xclip -o | nurble | xclip
 
 okPOS = ['NN', 'NNP', 'NNS'] #allowable nouns of speech
 verbs = ['VBD', 'VBP', 'VB', 'VBZ'] #allowable verbs
